@@ -34,7 +34,7 @@ ViewModel: Business logic and API communication
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 # Installation
-1. Clone the repository: 
+1. Clone the repository: https://github.com/gaonkarAkshay/NewsReaderApp.git
 2. Open project in Xcode
 3. Run the project on simulator or device.
 
